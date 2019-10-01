@@ -1,0 +1,34 @@
+* {
+    margin: 1;
+    padding: 200;
+}
+
+body {
+    background-color: #D8C99B;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+}
+
+.header {
+    color: #A4243B;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.h1 {
+  color: #BD632F;
+  font-size: 31px;
+  font-weight: bold;
+}
+
+.h12 {
+  color: #D8973C;
+  font-size: 31px;
+  font-weight: bold;
+}

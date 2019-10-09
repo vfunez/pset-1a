@@ -4,6 +4,10 @@
     color: #B7E9F7
 }
 
+a {
+  padding: 10px;
+}
+
 body {
     background-color: #7395AE;
 }

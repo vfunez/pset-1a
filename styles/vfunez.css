@@ -74,7 +74,7 @@ ul {
 }
 
 ul li::before {
-  content: "/2022";
+  content: "\2022";
   color: #DBF3FA;
   font-weight: bold;
   display: inline-block;

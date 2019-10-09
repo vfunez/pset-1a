@@ -1,6 +1,7 @@
 * {
     margin: 1;
     padding: 1;
+    color: #D8F3FA
 }
 
 body {
@@ -67,19 +68,6 @@ footer {
 a[title] {
     color: #F5FCFF;
     font-size: 32px;
-}
-
-ul li{
-  list-style: none;
-}
-
-li::before {
-  content: "\2022";
-  color: #DBF3FA;
-  font-weight: bold;
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
 }
 
 a {

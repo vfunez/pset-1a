@@ -42,7 +42,7 @@ footer {
 .h12 {
   color: #AFDCEB;
   font-size: 32px;
-  font-weight: bold;
+  font-weight: bolder;
   font-family: "Bebas Neue";
 }
 
@@ -68,8 +68,4 @@ footer {
 a[title] {
     color: #F5FCFF;
     font-size: 32px;
-}
-
-a {
-  padding: 10px;
 }

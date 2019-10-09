@@ -49,11 +49,13 @@ p {
 }
 
 #section2 {
-    text-align: center;
+    text-align: left;
+    color: #B7E9F7;
 }
 
 #section3 {
     text-align: left;
+    color: #DBF3FA;
 }
 
 a {

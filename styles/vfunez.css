@@ -22,7 +22,7 @@ p {
 
 footer {
     text-align: right;
-    position: relative;
+    position: fixed;
     bottom: 0;
 }
 

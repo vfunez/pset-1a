@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 5;
     padding: 1;
 }
 
@@ -18,7 +18,7 @@ p {
 }
 
 .header {
-    color: #A4243B;
+    color: #F0FFFF;
     font-size: 21px;
     font-weight: bolder;
     font-family: "Bebas Neue";
@@ -44,5 +44,5 @@ a {
 
 div {
   padding: 10px;
-  background-image: linear-gradient(to right, rgba(216,201,155,0), rgba(216,201,160,0));
+  background-image: #557A95;
 }

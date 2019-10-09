@@ -48,6 +48,14 @@ p {
     height: 50px;
 }
 
+#section2 {
+    text-align: center;
+}
+
+#section3 {
+    text-align: left;
+}
+
 a {
   padding: 10px;
 }

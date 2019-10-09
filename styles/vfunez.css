@@ -1,5 +1,5 @@
 * {
-    margin: 5;
+    margin: 1;
     padding: 1;
 }
 
@@ -9,7 +9,7 @@ body {
 
 h3 {
     font-size: 30px;
-    font-family: "Simplifica";
+    font-family: "Bebas Neue";
 }
 
 p {
@@ -25,24 +25,19 @@ p {
 }
 
 .h1 {
-  color: #BD632F;
+  color: #F0FFFF;
   font-size: 50px;
   font-weight: bold;
-  font-family: "Audrey";
+  font-family: "Bebas Neue";
 }
 
 .h12 {
   color: #D8973C;
   font-size: 31px;
   font-weight: bold;
-  font-family: "Simplifica";
+  font-family: "Bebas Neue";
 }
 
 a {
   padding: 10px;
-}
-
-div {
-  padding: 10px;
-  background-image: #557A95;
 }

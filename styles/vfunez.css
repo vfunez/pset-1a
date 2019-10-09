@@ -22,8 +22,6 @@ p {
 
 footer {
     text-align: right;
-    position: relative;
-    bottom: 0;
 }
 
 .header {
@@ -64,6 +62,10 @@ footer {
     text-align: left;
     color: #DBF3FA;
     font-size: 25px;
+}
+
+a[li] {
+    color: #F5FCFF;
 }
 
 a {

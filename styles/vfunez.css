@@ -41,7 +41,9 @@ p {
   font-family: "Bebas Neue";
 }
 
-
+#section2 {
+    border: 1px solid red;
+}
 
 a {
   padding: 10px;

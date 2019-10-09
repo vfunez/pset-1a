@@ -9,7 +9,7 @@ body {
 
 h3 {
     font-size: 30px;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 p {
@@ -21,14 +21,14 @@ p {
     color: #A4243B;
     font-size: 21px;
     font-weight: bolder;
-    font-family: cursive;
+    font-family: monospace;
 }
 
 .h1 {
   color: #BD632F;
   font-size: 50px;
   font-weight: bold;
-  font-family: sans-serif;
+  font-family: monospace;
 }
 
 .h12 {

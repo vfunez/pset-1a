@@ -86,6 +86,6 @@ tr:nth-child(even) {
     background-color: #557A95;
 }
 
-th ~ td {
+h2 + ol {
     border-top: 1px solid white;
 }

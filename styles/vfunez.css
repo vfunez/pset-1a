@@ -85,3 +85,7 @@ a[title] {
 tr:nth-child(even) {
     background-color: #557A95;
 }
+
+p + img {
+    border: 1px solid black;
+}

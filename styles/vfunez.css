@@ -73,3 +73,7 @@ a[title] {
     color: #F5FCFF;
     font-size: 32px;
 }
+
+div tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

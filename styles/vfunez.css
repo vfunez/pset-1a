@@ -89,3 +89,13 @@ tr:nth-child(even) {
 ul > li {
     margin: 25px;
 }
+
+ol > li {
+    margin: 10px;
+}
+
+img {
+    border-radius: 6px;
+    max-width: 100%;
+    height: auto;
+}

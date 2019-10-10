@@ -86,6 +86,6 @@ tr:nth-child(even) {
     background-color: #557A95;
 }
 
-header ~ h1 {
-    border-top: 0.5px solid white;
+ol > li {
+    margin: 0 0 5px 0;
 }

@@ -87,5 +87,5 @@ tr:nth-child(even) {
 }
 
 ol > li {
-    border-top: 5px solid red;
+    border-top: 1px solid white;
 }

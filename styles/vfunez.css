@@ -8,6 +8,14 @@ a {
   padding: 10px;
 }
 
+a:hover {
+  color: #7AD7F0;
+}
+
+a:visited {
+  color: #B7E9F7
+}
+
 body {
     background-color: #7395AE;
 }
@@ -76,12 +84,4 @@ a[title] {
 
 tr:nth-child(even) {
     background-color: #557A95;
-}
-
-a:hover {
-  color: #7AD7F0;
-}
-
-a:visited {
-  color: #B7E9F7
 }

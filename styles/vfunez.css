@@ -86,6 +86,6 @@ tr:nth-child(even) {
     background-color: #557A95;
 }
 
-p + img {
-    border: 19px solid black;
+ol > li {
+    border-top: 5px solid red;
 }
